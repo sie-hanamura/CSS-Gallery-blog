@@ -1,2 +1,1 @@
-# CSS-Gallery-blog
 test
